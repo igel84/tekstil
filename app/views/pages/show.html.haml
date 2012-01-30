@@ -1,0 +1,4 @@
+%h1{:align=>"center", :class=>"title"}= @page.title
+%p!= @page.body
+.clear
+= link_to 'редактировать', edit_page_path(@page) if admin?

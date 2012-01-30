@@ -1,0 +1,7 @@
+<h1>Пароль:</h1>
+<%= form_tag(:action => 'login') do %>
+	<div style="margin: 20px auto; width:300px;">
+		<%= password_field_tag 'password' %>
+		<%= submit_tag 'Войти' %>
+	</div>
+<% end %>

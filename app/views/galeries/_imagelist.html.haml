@@ -1,0 +1,10 @@
+- @galery.images.each do |image|
+	.galery-file{:style=>'float:left;width:210px;height:120px;border-right:solid 1px grey;text-align:center;'}
+		= image_tag image.photo.url(:thumb)
+		= link_to main_image_galery_path(:proj_id=>@galery.id, :image_id=>image.id) do
+			= image_tag(image.main == true ? 'favorite.png' : 'nonfavorite.png', :style=>"margin-left:-30px;margin-top:8px;")
+		= link_to del_image_galery_path(:proj_id=>@galery.id, :image_id=>image.id) do
+			= image_tag 'del.png', :style=>"margin-left:-50px;margin-top:8px;"
+	.galery-name{:style=>'margin-left: 230px;width:300px;padding-top:20px;height:120px;'}= image.name
+	.clear
+%br/

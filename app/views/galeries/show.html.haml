@@ -1,0 +1,11 @@
+%h1
+	= link_to "Фотогаллерея", galeries_path, :class=>'galery-href'
+	&nbsp;/&nbsp;
+	= @galery.name
+.img-list
+	- @galery.images.each do |image|
+		= link_to image.photo.url, :target=>"_blank" do
+			= image_tag image.photo.url(:small), :style=>"margin:10px auto;float:left; width:220px;"
+		.name= image.name
+		.clear
+= link_to 'редактировать', edit_galery_path(@galery) if admin?
