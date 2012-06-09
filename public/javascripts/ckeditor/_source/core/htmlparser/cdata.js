@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿/*
 Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
@@ -41,3 +42,48 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 		}
 	};
 })();
+=======
+﻿/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+(function()
+{
+
+	/**
+	 * A lightweight representation of HTML text.
+	 * @constructor
+	 * @example
+	 */
+	CKEDITOR.htmlParser.cdata = function( value )
+	{
+		/**
+		 * The CDATA value.
+		 * @type String
+		 * @example
+		 */
+		this.value = value;
+	};
+
+	CKEDITOR.htmlParser.cdata.prototype =
+	{
+		/**
+		 * CDATA has the same type as {@link CKEDITOR.htmlParser.text} This is
+		 * a constant value set to {@link CKEDITOR.NODE_TEXT}.
+		 * @type Number
+		 * @example
+		 */
+		type : CKEDITOR.NODE_TEXT,
+
+		/**
+		 * Writes write the CDATA with no special manipulations.
+		 * @param {CKEDITOR.htmlWriter} writer The writer to which write the HTML.
+		 */
+		writeHtml : function( writer )
+		{
+			writer.write( this.value );
+		}
+	};
+})();
+>>>>>>> 23b8d95dbac31453520797cbc04d68aa61d48180

@@ -1,0 +1,98 @@
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-09 12:34:40 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>1}
+  [1m[36mPage Load (81.2ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = ? LIMIT 1[0m  [["id", 1]]
+Rendered pages/show.html.haml within layouts/application (17.7ms)
+Compiled application.css  (7289ms)  (pid 27025)
+Compiled application.js  (140ms)  (pid 27025)
+Compiled jquery.js  (20ms)  (pid 27025)
+Compiled jquery_ujs.js  (2ms)  (pid 27025)
+Compiled galeries.js  (0ms)  (pid 27025)
+  [1m[35mPage Load (0.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."hiperlink" = 'service' LIMIT 1
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."hiperlink" = 'kontakt' LIMIT 1[0m
+Completed 200 OK in 7976ms (Views: 7888.6ms | ActiveRecord: 82.2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-09 12:34:49 +0400
+Served asset /jquery.js - 200 OK (16ms)
+
+
+Started GET "/assets/galeries.js?body=1" for 127.0.0.1 at 2012-06-09 12:34:49 +0400
+Served asset /galeries.js - 200 OK (15ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-09 12:34:49 +0400
+Served asset /jquery_ujs.js - 200 OK (5ms)
+
+
+Started GET "/assets/img07.gif" for 127.0.0.1 at 2012-06-09 12:34:50 +0400
+Served asset /img07.gif - 404 Not Found (8ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+Rendered /home/igel/.rvm/gems/ruby-1.9.3-p194@global/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-09 12:35:13 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>1}
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = ? LIMIT 1  [["id", 1]]
+Rendered pages/show.html.haml within layouts/application (10.1ms)
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."hiperlink" = 'service' LIMIT 1[0m
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."hiperlink" = 'kontakt' LIMIT 1
+Completed 200 OK in 37ms (Views: 30.9ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-09 12:35:13 +0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/galeries.js?body=1" for 127.0.0.1 at 2012-06-09 12:35:13 +0400
+Served asset /galeries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-09 12:35:13 +0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/img07.gif" for 127.0.0.1 at 2012-06-09 12:35:13 +0400
+Served asset /img07.gif - 404 Not Found (6ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+Rendered /home/igel/.rvm/gems/ruby-1.9.3-p194@global/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-09 12:35:38 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>1}
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = ? LIMIT 1[0m  [["id", 1]]
+Rendered pages/show.html.haml within layouts/application (89.5ms)
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."hiperlink" = 'service' LIMIT 1
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."hiperlink" = 'kontakt' LIMIT 1[0m
+Completed 200 OK in 112ms (Views: 108.3ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-09 12:35:39 +0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-09 12:35:39 +0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/galeries.js?body=1" for 127.0.0.1 at 2012-06-09 12:35:39 +0400
+Served asset /galeries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/img07.gif" for 127.0.0.1 at 2012-06-09 12:35:39 +0400
+Served asset /img07.gif - 404 Not Found (17ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+Rendered /home/igel/.rvm/gems/ruby-1.9.3-p194@global/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)

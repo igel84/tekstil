@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿/*
 Copyright (c) 2003-2009, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
@@ -40,4 +41,48 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 		}
 	});
 	
+=======
+﻿/*
+Copyright (c) 2003-2009, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+/**
+ * @file Paste as plain text plugin
+ */
+
+(function()
+{
+	// The pastetext command definition.
+	var embedCmd =
+	{
+		exec : function( editor )
+		{
+		  editor.openDialog( 'embed' );
+		  return;
+		}
+	};
+  
+	// Register the plugin.
+	CKEDITOR.plugins.add( 'embed',
+	{
+	  lang : [ 'en', 'ru', 'uk' ],
+	  requires : [ 'dialog' ],
+	  
+		init : function( editor )
+		{ 
+			var commandName = 'embed';
+			editor.addCommand( commandName, embedCmd );
+      
+			editor.ui.addButton( 'Embed',
+				{
+					label : editor.lang.embed.button,
+					command : commandName,
+					icon: this.path + "images/embed.png"
+				});      
+			CKEDITOR.dialog.add( commandName, CKEDITOR.getUrl( this.path + 'dialogs/embed.js' ) );
+		}
+	});
+	
+>>>>>>> 23b8d95dbac31453520797cbc04d68aa61d48180
 })();

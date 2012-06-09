@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 rvm use 1.9.3-p194
 rvm gemset use global
+=======
+rvm use 1.9.3
+>>>>>>> 23b8d95dbac31453520797cbc04d68aa61d48180
