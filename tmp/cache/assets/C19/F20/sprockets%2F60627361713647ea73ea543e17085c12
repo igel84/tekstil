@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.1658826:@value{	I"length:EFijI"digest;
+F"%e39a4a53898377506b48785dbfc20b8bI"source;
+FI"j/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("placeholder","en",{placeholder:{title:"Placeholder Properties",toolbar:"Create Placeholder",text:"Placeholder Text",edit:"Edit Placeholder",textMissing:"The placeholder must contain text."}});
+TI"_version;
+F"%c4c8e476ad2c305b54f7e00e235fda1e

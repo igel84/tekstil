@@ -1,0 +1,48 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946530.2575114:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%3d9f6fb234a143a900de1d56a505c292I"logical_path;
+F"ckeditor/contents.cssI"pathname;
+F"—/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/contents.cssI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"0/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+body
+{
+	/* Font */
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+
+	/* Text color */
+	color: #222;
+
+	/* Remove the background color to make it transparent */
+	background-color: #fff;
+}
+
+ol,ul,dl
+{
+	/* IE7: reset rtl list margin. (#7334) */
+	*margin-right:0px;
+	/* preserved spaces for list items with text direction other than the list. (#6249,#8049)*/
+    padding:0 40px;
+}
+;
+FI"asset_paths;
+F["—/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/contents.cssI"dependency_paths;
+F[{I"	path;
+F"—/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/contents.cssI"
+mtime;
+FIu:	TimeÑ€Bt‚
+:@_zoneI"MSK;
+T:nano_numi”:nano_deni:submicro"‘`:offseti@8I"hexdigest;
+F"%ad0b963f396ba6e9bec588869e5ca94bI"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

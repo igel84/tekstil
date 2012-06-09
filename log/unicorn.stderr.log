@@ -1,0 +1,23 @@
+D, [2012-04-08T15:50:21.440436 #32132] DEBUG -- : waiting 21.0s after suspend/hibernation
+I, [2012-04-10T23:43:20.724425 #32132]  INFO -- : reaped #<Process::Status: pid 5302 exit 0> worker=0
+I, [2012-04-10T23:43:22.048551 #32132]  INFO -- : master complete
+I, [2012-04-11T00:50:15.286698 #8258]  INFO -- : unlinking existing socket=/var/sockets/tekstil.igel84.sock
+I, [2012-04-11T00:50:15.293012 #8258]  INFO -- : listening on addr=/var/sockets/tekstil.igel84.sock fd=7
+I, [2012-04-11T00:50:15.293309 #8258]  INFO -- : Refreshing Gem list
+I, [2012-04-11T00:50:23.991640 #8258]  INFO -- : master process ready
+I, [2012-04-11T00:50:23.999781 #8459]  INFO -- : worker=0 ready
+cache: [GET /] miss
+cache: [GET /assets/img07.gif] miss
+cache: [GET /] miss
+cache: [GET /assets/img07.gif] miss
+D, [2012-04-24T00:29:33.390595 #8258] DEBUG -- : waiting 21.0s after suspend/hibernation
+D, [2012-04-24T22:15:18.426344 #8258] DEBUG -- : waiting 21.0s after suspend/hibernation
+D, [2012-04-25T00:48:44.105448 #8258] DEBUG -- : waiting 21.0s after suspend/hibernation
+cache: [GET /] miss
+cache: [GET /assets/img07.gif] miss
+cache: [GET /service] miss
+cache: [GET /assets/img07.gif] miss
+cache: [GET /kontakt] miss
+cache: [GET /assets/img07.gif] miss
+D, [2012-05-05T11:35:13.095493 #8258] DEBUG -- : waiting 21.0s after suspend/hibernation
+D, [2012-05-14T23:38:52.665635 #8258] DEBUG -- : waiting 21.0s after suspend/hibernation

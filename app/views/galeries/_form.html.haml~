@@ -1,0 +1,13 @@
+= form_for(@galery) do |f|
+	%br/
+	.field{:style=>'width:500px;margin:10px auto;'}
+		= f.label 'Название'
+		%br/
+		= f.text_field :name, :style=>"width:500px"
+	.field{:style=>'float:left;'}
+	.clear
+	.actions{:style=>'float:center;'}
+		%br/
+		= f.submit 'сохранить'
+	.clear
+%hr/

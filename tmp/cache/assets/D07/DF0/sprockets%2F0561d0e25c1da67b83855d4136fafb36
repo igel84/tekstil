@@ -1,0 +1,59 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946530.1987147:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%63a56733eae30650fc48f07843711076I"logical_path;
+F" ckeditor/ckeditor_source.jsI"pathname;
+F"ù/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/ckeditor_source.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"t/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+// Compressed version of core/ckeditor_base.js. See original for instructions.
+/*jsl:ignore*/
+
+if(!window.CKEDITOR)window.CKEDITOR=(function(){var a={timestamp:'',version:'3.6.2',revision:'7275',_:{},status:'unloaded',basePath:(function(){var d=window.CKEDITOR_BASEPATH||'';if(!d){var e=document.getElementsByTagName('script');for(var f=0;f<e.length;f++){var g=e[f].src.match(/(^|.*[\\\/])ckeditor(?:_basic)?(?:_source)?.js(?:\?.*)?$/i);if(g){d=g[1];break;}}}if(d.indexOf(':/')==-1)if(d.indexOf('/')===0)d=location.href.match(/^.*?:\/\/[^\/]*/)[0]+d;else d=location.href.match(/^[^\?]*\/(?:)/)[0]+d;return d;})(),getUrl:function(d){if(d.indexOf(':/')==-1&&d.indexOf('/')!==0)d=this.basePath+d;if(this.timestamp&&d.charAt(d.length-1)!='/')d+=(d.indexOf('?')>=0?'&':'?')+('t=')+this.timestamp;return d;}},b=window.CKEDITOR_GETURL;if(b){var c=a.getUrl;a.getUrl=function(d){return b.call(a,d)||c.call(a,d);};}return a;})();
+/*jsl:end*/
+
+// Uncomment the following line to have a new timestamp generated for each
+// request, having clear cache load of the editor code.
+// CKEDITOR.timestamp = ( new Date() ).valueOf();
+
+if ( CKEDITOR.loader )
+	CKEDITOR.loader.load( 'core/ckeditor' );
+else
+{
+	// Set the script name to be loaded by the loader.
+	CKEDITOR._autoLoad = 'core/ckeditor';
+
+	// Include the loader script.
+	if ( document.body && (!document.readyState || document.readyState == 'complete') )
+	{
+		var script = document.createElement( 'script' );
+		script.type = 'text/javascript';
+		script.src = CKEDITOR.getUrl( '_source/core/loader.js' );
+		document.body.appendChild( script );
+	}
+	else
+	{
+		document.write(
+			'<script type="text/javascript" src="' + CKEDITOR.getUrl( '_source/core/loader.js' ) + '"></script>' );
+	}
+}
+;
+;
+FI"asset_paths;
+F["ù/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/ckeditor_source.jsI"dependency_paths;
+F[{I"	path;
+F"ù/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/ckeditor_source.jsI"
+mtime;
+FIu:	Time—ÄBtÇ
+:@_zoneI"MSK;
+T:nano_numiî:nano_deni:submicro"ë`:offseti@8I"hexdigest;
+F"%cdfd420a29ab63fe9493c978e9e761caI"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.9228017:@value{	I"length:EFi–I"digest;
+F"%0b37a6bde6ee8cc60e9e86c275f0d491I"source;
+FI"–/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.add("uicolor",{requires:["dialog"],lang:["en","he"],init:function(a){if(CKEDITOR.env.ie6Compat)return;a.addCommand("uicolor",new CKEDITOR.dialogCommand("uicolor")),a.ui.addButton("UIColor",{label:a.lang.uicolor.title,command:"uicolor",icon:this.path+"uicolor.gif"}),CKEDITOR.dialog.add("uicolor",this.path+"dialogs/uicolor.js"),CKEDITOR.scriptLoader.load(CKEDITOR.getUrl("plugins/uicolor/yui/yui.js")),a.element.getDocument().appendStyleSheet(CKEDITOR.getUrl("plugins/uicolor/yui/assets/yui.css"))}});
+TI"_version;
+F"%163b1a056db5f37c6c93d53894de6480

@@ -1,0 +1,75 @@
+
+
+Started GET "/" for 213.129.118.178 at 2012-04-18 10:00:05 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>1}
+Rendered pages/show.html.haml within layouts/application (16.6ms)
+Completed 200 OK in 781ms (Views: 559.2ms | ActiveRecord: 210.8ms)
+
+
+Started GET "/assets/img07.gif" for 213.129.118.178 at 2012-04-18 10:00:10 +0400
+Served asset /img07.gif - 404 Not Found (106ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+
+
+Started GET "/" for 95.169.125.154 at 2012-04-18 10:00:33 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>1}
+Rendered pages/show.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/img07.gif" for 95.169.125.154 at 2012-04-18 10:00:35 +0400
+Served asset /img07.gif - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+
+
+Started GET "/" for 213.129.118.178 at 2012-04-25 08:37:05 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>1}
+Rendered pages/show.html.haml within layouts/application (9.8ms)
+Completed 200 OK in 202ms (Views: 117.2ms | ActiveRecord: 35.1ms)
+
+
+Started GET "/assets/img07.gif" for 213.129.118.178 at 2012-04-25 08:37:05 +0400
+Served asset /img07.gif - 404 Not Found (44ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+
+
+Started GET "/service" for 213.129.118.178 at 2012-04-25 08:37:09 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"hiperlink"=>"service"}
+Rendered pages/show.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/img07.gif" for 213.129.118.178 at 2012-04-25 08:37:09 +0400
+Served asset /img07.gif - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+
+
+
+Started GET "/kontakt" for 213.129.118.178 at 2012-04-25 08:37:12 +0400
+  Processing by PagesController#show as HTML
+  Parameters: {"hiperlink"=>"kontakt"}
+Rendered pages/show.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/img07.gif" for 213.129.118.178 at 2012-04-25 08:37:13 +0400
+Served asset /img07.gif - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/img07.gif"):
+  
+

@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.9077885:@value{	I"length:EFiKI"digest;
+F"%56e1e15eb366eae0e41acfe2c366f3d1I"source;
+FI"K/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("uicolor","en",{uicolor:{title:"UI Color Picker",preview:"Live preview",config:"Paste this string into your config.js file",predefined:"Predefined color sets"}});
+TI"_version;
+F"%a20a16b00577f548f3840fb39f28f3e9

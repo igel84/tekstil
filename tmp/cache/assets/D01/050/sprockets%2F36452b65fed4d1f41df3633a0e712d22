@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946534.18495:@value{	I"length:EFi½I"digest;
+F"%d1ecf68b613eff1a7ac8063cb9ed85a5I"source;
+FI"½/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.add("docprops",{init:function(a){var b=new CKEDITOR.dialogCommand("docProps");b.modes={wysiwyg:a.config.fullPage},a.addCommand("docProps",b),CKEDITOR.dialog.add("docProps",this.path+"dialogs/docprops.js"),a.ui.addButton("DocProps",{label:a.lang.docprops.label,command:"docProps"})}});
+TI"_version;
+F"%5e4edef6f0348713f515f32b00a6394d

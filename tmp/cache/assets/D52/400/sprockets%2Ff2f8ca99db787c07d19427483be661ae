@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.9051673:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%a20a16b00577f548f3840fb39f28f3e9I"logical_path;
+F"(ckeditor/plugins/uicolor/lang/en.jsI"pathname;
+F"¥/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/lang/en.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"U/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+CKEDITOR.plugins.setLang('uicolor','en',{uicolor:{title:'UI Color Picker',preview:'Live preview',config:'Paste this string into your config.js file',predefined:'Predefined color sets'}});
+;
+FI"asset_paths;
+F["¥/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/lang/en.jsI"dependency_paths;
+F[{I"	path;
+F"¥/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/lang/en.jsI"
+mtime;
+FIu:	TimeÑ€ÚŸt‚
+:@_zoneI"MSK;
+T:nano_numiú:nano_deni:submicro"v :offseti@8I"hexdigest;
+F"%5cf18e998ff0271b8a1ca5d8ad3d300aI"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

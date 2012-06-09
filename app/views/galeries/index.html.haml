@@ -1,0 +1,11 @@
+%h1 Фотогаллерея
+- if admin?
+	= link_to 'новая категория', new_galery_path if admin?
+	%br/
+%table.galery-list
+	- @galeries.each do |pr|
+		%tr
+			%td= link_to truncate(pr.name, :length=>20, :ommission=>'...'), galery_path(pr)
+			%td
+				= link_to(galery_path(pr)) do
+					= image_tag Image.favorite(pr.id).photo.url(:thumb), :class => 'proj-img' if pr.images != [] && Image.favorite(pr.id)

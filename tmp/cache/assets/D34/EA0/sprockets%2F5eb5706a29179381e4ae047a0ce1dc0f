@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946509.477705:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%dce98b3d40dcbff4f91025cefca79701I"logical_path;
+F"del.pngI"pathname;
+FI"$$root/app/assets/images/del.png;
+FI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2012-01-30T21:02:31+04:00;
+FI"length;
+FI"	1694;
+FI"digest;
+F"%249f3b436ade208e1108d49d11b07924I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

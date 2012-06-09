@@ -1,0 +1,89 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946530.2457864:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%eea2f04ac2cb66b02c42aff3a3e181b5I"logical_path;
+F"ckeditor/config.jsI"pathname;
+F"”/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/config.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"Ã
+/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+CKEDITOR.editorConfig = function( config )
+{
+	// Define changes to default configuration here. For example:
+	// config.language = 'fr';
+	// config.uiColor = '#AADC6E';
+	
+  /* Filebrowser routes */
+  // The location of an external file browser, that should be launched when "Browse Server" button is pressed.
+  config.filebrowserBrowseUrl = "/ckeditor/attachment_files";
+
+  // The location of an external file browser, that should be launched when "Browse Server" button is pressed in the Flash dialog.
+  config.filebrowserFlashBrowseUrl = "/ckeditor/attachment_files";
+
+  // The location of a script that handles file uploads in the Flash dialog.
+  config.filebrowserFlashUploadUrl = "/ckeditor/attachment_files";
+  
+  // The location of an external file browser, that should be launched when "Browse Server" button is pressed in the Link tab of Image dialog.
+  config.filebrowserImageBrowseLinkUrl = "/ckeditor/pictures";
+
+  // The location of an external file browser, that should be launched when "Browse Server" button is pressed in the Image dialog.
+  config.filebrowserImageBrowseUrl = "/ckeditor/pictures";
+
+  // The location of a script that handles file uploads in the Image dialog.
+  config.filebrowserImageUploadUrl = "/ckeditor/pictures";
+  
+  // The location of a script that handles file uploads.
+  config.filebrowserUploadUrl = "/ckeditor/attachment_files";
+  
+  // Rails CSRF token
+  config.filebrowserParams = function(){
+    var csrf_token = jQuery('meta[name=csrf-token]').attr('content'),
+        csrf_param = jQuery('meta[name=csrf-param]').attr('content'),
+        params = new Object();
+    
+    if (csrf_param !== undefined && csrf_token !== undefined) {
+      params[csrf_param] = csrf_token;
+    }
+    
+    return params;
+  };
+  
+  /* Extra plugins */
+  // works only with en, ru, uk locales
+  config.extraPlugins = "embed,attachment";
+  
+  /* Toolbars */
+  config.toolbar = 'Easy';
+  
+  config.toolbar_Easy =
+    [
+        ['Source','-','Preview'],
+        ['Cut','Copy','Paste','PasteText','PasteFromWord',],
+        ['Undo','Redo','-','SelectAll','RemoveFormat'],
+        ['Styles','Format'], ['Subscript', 'Superscript', 'TextColor'], ['Maximize','-','About'], '/',
+        ['Bold','Italic','Underline','Strike'], ['NumberedList','BulletedList','-','Outdent','Indent','Blockquote'],
+        ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
+        ['Link','Unlink','Anchor'], ['Image', 'Attachment', 'Flash', 'Embed'],
+        ['Table','HorizontalRule','Smiley','SpecialChar','PageBreak']
+    ];
+};
+;
+FI"asset_paths;
+F["”/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/config.jsI"dependency_paths;
+F[{I"	path;
+F"”/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/config.jsI"
+mtime;
+FIu:	TimeÑ€Bt‚
+:@_zoneI"MSK;
+T:nano_numi”:nano_deni:submicro"‘`:offseti@8I"hexdigest;
+F"%ff8cffa862a19545f7c8f5ed4d9ad909I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

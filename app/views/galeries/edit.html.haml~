@@ -1,0 +1,22 @@
+%h1 Редактирование категории
+= render 'form'
+%br/
+%h2 Фотографии
+#divtoupdate{:style=>'width:500px;margin: 10px auto;'}
+	= render 'imagelist'
+%h2 Добавление фотографии
+= form_tag(add_image_galery_path, :multipart => true, :id => 'myForm' ) do
+	#file-input{:style=>'width:500px;margin: 10px auto;'}
+		= hidden_field_tag :galery_id, @galery.id
+		= label_tag "название фотографии"
+		%br/
+		= text_field_tag :image_name, '', :style=>"width:500px;"
+		%br/
+		%br/
+		%input{:type=>'file', :name=>'photos[]'}
+		%br/
+		%br/
+		.field{:style=>'text-align:center;margin-bottom:20px;'}
+			= submit_tag 'сохранить'
+= link_to 'просмотр', @galery
+= link_to 'к списку категорий', galeries_path

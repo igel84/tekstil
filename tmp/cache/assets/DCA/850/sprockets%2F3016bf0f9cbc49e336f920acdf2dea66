@@ -1,0 +1,42 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946510.871413:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%6b90d17d51ba21413026107fd21ec3bfI"logical_path;
+F"galeries.jsI"pathname;
+FI"-$root/app/assets/javascripts/galeries.js;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:02:35+04:00;
+FI"	body;
+FI"�$(document).ready(function(){
+	$('.select-price').change(function() {
+		count = ($(this).val());
+		$(this).parent().find('.proj-price').text(count);
+	});
+	//$("#galery").jqGalScroll({
+	//	ease: null,
+  // speed: 100,
+  //  height: 300,
+  //  width: 300,
+  //  titleOpacity : .60,
+  //  direction : 'horizontal'
+	//});
+
+	//$('#galery li').tinyTips('green', 'кликните по картинке для просмотра полного изображения');
+});
+;
+TI"asset_paths;
+F[I"-$root/app/assets/javascripts/galeries.js;
+FI"dependency_paths;
+F[{I"	path;
+FI"-$root/app/assets/javascripts/galeries.js;
+FI"
+mtime;
+FIu:	Time����<
+
+:@_zoneI"MSK;
+T:nano_numi�:nano_deni:submicro"d:offseti@8I"hexdigest;
+F"%a1a5ffd9dd31065c1735a5e1132bb5b7I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

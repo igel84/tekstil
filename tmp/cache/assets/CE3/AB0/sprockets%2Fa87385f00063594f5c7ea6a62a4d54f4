@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.9182763:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%163b1a056db5f37c6c93d53894de6480I"logical_path;
+F"'ckeditor/plugins/uicolor/plugin.jsI"pathname;
+F"¤/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/plugin.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"¡/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+CKEDITOR.plugins.add('uicolor',{requires:['dialog'],lang:['en','he'],init:function(a){if(CKEDITOR.env.ie6Compat)return;a.addCommand('uicolor',new CKEDITOR.dialogCommand('uicolor'));a.ui.addButton('UIColor',{label:a.lang.uicolor.title,command:'uicolor',icon:this.path+'uicolor.gif'});CKEDITOR.dialog.add('uicolor',this.path+'dialogs/uicolor.js');CKEDITOR.scriptLoader.load(CKEDITOR.getUrl('plugins/uicolor/yui/yui.js'));a.element.getDocument().appendStyleSheet(CKEDITOR.getUrl('plugins/uicolor/yui/assets/yui.css'));}});
+;
+FI"asset_paths;
+F["¤/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/plugin.jsI"dependency_paths;
+F[{I"	path;
+F"¤/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/plugin.jsI"
+mtime;
+FIu:	TimeÑ€ÚŸt‚
+:@_zoneI"MSK;
+T:nano_numiú:nano_deni:submicro"v :offseti@8I"hexdigest;
+F"%e51cfb10c106b8ddc46519dc6654479bI"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

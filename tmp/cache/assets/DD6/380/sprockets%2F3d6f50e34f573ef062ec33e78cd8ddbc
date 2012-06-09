@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946533.9945521:@value{	I"length:EFiHI"digest;
+F"%50faaa6b14546ec7390324b013d702e2I"source;
+FI"H/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("devtools","en",{devTools:{title:"Element Information",dialogName:"Dialog window name",tabName:"Tab name",elementId:"Element ID",elementType:"Element type"}});
+TI"_version;
+F"%57e11091530f88653116a12d1cd7d532

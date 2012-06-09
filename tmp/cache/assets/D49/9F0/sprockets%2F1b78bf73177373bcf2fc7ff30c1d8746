@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.586797:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%be2bdd404aa5432859c88adfb248c71dI"logical_path;
+F"0ckeditor/plugins/stylesheetparser/plugin.jsI"pathname;
+F"­/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/stylesheetparser/plugin.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"Y/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+(function(){function a(c,d,e){var f=c.join(' ');f=f.replace(/(,|>|\+|~)/g,' ');f=f.replace(/\[[^\]]*/g,'');f=f.replace(/#[^\s]*/g,'');f=f.replace(/\:{1,2}[^\s]*/g,'');f=f.replace(/\s+/g,' ');var g=f.split(' '),h=[];for(var i=0;i<g.length;i++){var j=g[i];if(e.test(j)&&!d.test(j))if(CKEDITOR.tools.indexOf(h,j)==-1)h.push(j);}return h;};function b(c,d,e){var f=[],g=[],h;for(h=0;h<c.styleSheets.length;h++){var i=c.styleSheets[h],j=i.ownerNode||i.owningElement;if(j.getAttribute('data-cke-temp'))continue;if(i.href&&i.href.substr(0,9)=='chrome://')continue;var k=i.cssRules||i.rules;for(var l=0;l<k.length;l++)g.push(k[l].selectorText);}var m=a(g,d,e);for(h=0;h<m.length;h++){var n=m[h].split('.'),o=n[0].toLowerCase(),p=n[1];f.push({name:o+'.'+p,element:o,attributes:{'class':p}});}return f;};CKEDITOR.plugins.add('stylesheetparser',{requires:['styles'],onLoad:function(){var c=CKEDITOR.editor.prototype;c.getStylesSet=CKEDITOR.tools.override(c.getStylesSet,function(d){return function(e){var f=this;d.call(this,function(g){var h=f.config.stylesheetParser_skipSelectors||/(^body\.|^\.)/i,i=f.config.stylesheetParser_validSelectors||/\w+\.\w+/;e(f._.stylesDefinitions=g.concat(b(f.document.$,h,i)));});};});}});})();
+;
+FI"asset_paths;
+F["­/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/stylesheetparser/plugin.jsI"dependency_paths;
+F[{I"	path;
+F"­/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/stylesheetparser/plugin.jsI"
+mtime;
+FIu:	TimeÑ€:t‚
+:@_zoneI"MSK;
+T:nano_numi:nano_deni:submicro"x€:offseti@8I"hexdigest;
+F"%6b694cd48316ac65d15409a4f71cb8b6I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

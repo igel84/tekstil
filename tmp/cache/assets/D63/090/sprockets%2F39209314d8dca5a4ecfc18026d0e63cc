@@ -1,0 +1,15 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946539.1747684:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%cb8ed5f24e573f02b8b3fe89f95fdba5I"logical_path;
+F"0ckeditor/skins/kama/images/dialog_sides.gifI"pathname;
+F"­/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/skins/kama/images/dialog_sides.gifI"content_type;
+FI"image/gif;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"length;
+FI"48;
+FI"digest;
+F"%e7d951d1b400c4a29602810b23cf6298I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

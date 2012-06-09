@@ -1,0 +1,32 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946533.6706126:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%172e4e39534f83455f04b2663bde6955I"logical_path;
+F"+ckeditor/plugins/attachment/lang/en.jsI"pathname;
+F"¨/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/attachment/lang/en.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"°CKEDITOR.plugins.setLang('attachment', 'en',
+{
+  attachment : 
+  {
+    title : "Insert attachment",
+    url: "URL",
+    name: "Title",
+    button : "Insert attachment"
+  }
+});
+;
+FI"asset_paths;
+F["¨/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/attachment/lang/en.jsI"dependency_paths;
+F[{I"	path;
+F"¨/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/attachment/lang/en.jsI"
+mtime;
+FIu:	TimeÑ€úpt‚
+:@_zoneI"MSK;
+T:nano_numiF:nano_deni:submicro"ƒ€:offseti@8I"hexdigest;
+F"%e12163a06559581fc1bceb1f091aeb43I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

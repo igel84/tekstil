@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.162052:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%c4c8e476ad2c305b54f7e00e235fda1eI"logical_path;
+F",ckeditor/plugins/placeholder/lang/en.jsI"pathname;
+F"©/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/placeholder/lang/en.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"t/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+CKEDITOR.plugins.setLang('placeholder','en',{placeholder:{title:'Placeholder Properties',toolbar:'Create Placeholder',text:'Placeholder Text',edit:'Edit Placeholder',textMissing:'The placeholder must contain text.'}});
+;
+FI"asset_paths;
+F["©/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/placeholder/lang/en.jsI"dependency_paths;
+F[{I"	path;
+F"©/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/placeholder/lang/en.jsI"
+mtime;
+FIu:	Time—Ä:êtÇ
+:@_zoneI"MSK;
+T:nano_numi:nano_deni:submicro"xÄ:offseti@8I"hexdigest;
+F"%8c59b1d656615bce3960dd492e7ef628I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

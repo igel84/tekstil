@@ -1,0 +1,15 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.312403:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%ec08319a744aab0b840241c693193473I"logical_path;
+F"9ckeditor/plugins/showblocks/images/block_address.pngI"pathname;
+F"¶/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/showblocks/images/block_address.pngI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"length;
+FI"171;
+FI"digest;
+F"%dadb115f37dd62e54ef3da3fa627dc78I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

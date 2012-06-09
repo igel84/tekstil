@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946535.418508:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%0d696faafbf192da143c3a8a2db92321I"logical_path;
+F",ckeditor/plugins/iframedialog/plugin.jsI"pathname;
+F"©/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/iframedialog/plugin.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"¿/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+CKEDITOR.plugins.add('iframedialog',{requires:['dialog'],onLoad:function(){CKEDITOR.dialog.addIframe=function(a,b,c,d,e,f,g){var h={type:'iframe',src:c,width:'100%',height:'100%'};if(typeof f=='function')h.onContentLoad=f;else h.onContentLoad=function(){var k=this.getElement(),l=k.$.contentWindow;if(l.onDialogEvent){var m=this.getDialog(),n=function(o){return l.onDialogEvent(o);};m.on('ok',n);m.on('cancel',n);m.on('resize',n);m.on('hide',function(o){m.removeListener('ok',n);m.removeListener('cancel',n);m.removeListener('resize',n);o.removeListener();});l.onDialogEvent({name:'load',sender:this,editor:m._.editor});}};var i={title:b,minWidth:d,minHeight:e,contents:[{id:'iframe',label:b,expand:true,elements:[h]}]};for(var j in g)i[j]=g[j];this.add(a,function(){return i;});};(function(){var a=function(b,c,d){if(arguments.length<3)return;var e=this._||(this._={}),f=c.onContentLoad&&CKEDITOR.tools.bind(c.onContentLoad,this),g=CKEDITOR.tools.cssLength(c.width),h=CKEDITOR.tools.cssLength(c.height);e.frameId=CKEDITOR.tools.getNextId()+'_iframe';b.on('load',function(){var k=CKEDITOR.document.getById(e.frameId),l=k.getParent();l.setStyles({width:g,height:h});});var i={src:'%2',id:e.frameId,frameborder:0,allowtransparency:true},j=[];if(typeof c.onContentLoad=='function')i.onload='CKEDITOR.tools.callFunction(%1);';CKEDITOR.ui.dialog.uiElement.call(this,b,c,j,'iframe',{width:g,height:h},i,'');d.push('<div style="width:'+g+';height:'+h+';" id="'+this.domId+'"></div>');j=j.join('');b.on('show',function(){var k=CKEDITOR.document.getById(e.frameId),l=k.getParent(),m=CKEDITOR.tools.addFunction(f),n=j.replace('%1',m).replace('%2',CKEDITOR.tools.htmlEncode(c.src));l.setHtml(n);});};a.prototype=new CKEDITOR.ui.dialog.uiElement();CKEDITOR.dialog.addUIElement('iframe',{build:function(b,c,d){return new a(b,c,d);}});})();}});
+;
+FI"asset_paths;
+F["©/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/iframedialog/plugin.jsI"dependency_paths;
+F[{I"	path;
+F"©/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/iframedialog/plugin.jsI"
+mtime;
+FIu:	Time—ÄöÄtÇ
+:@_zoneI"MSK;
+T:nano_numi-:nano_deni:submicro"Å0:offseti@8I"hexdigest;
+F"%06c2e9e37c7ff2b283ddced97e9be0f4I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

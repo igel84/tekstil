@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.1702921:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%5c7323ad4743092c8a5a921abb439bf3I"logical_path;
+F",ckeditor/plugins/placeholder/lang/he.jsI"pathname;
+F"�/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/placeholder/lang/he.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"�/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+
+CKEDITOR.plugins.setLang('placeholder','he',{placeholder:{title:'מאפייני שומר מקום',toolbar:'צור שומר מקום',text:'תוכן שומר המקום',edit:'ערוך שומר מקום',textMissing:'שומר המקום חייב להכיל טקסט.'}});
+;
+TI"asset_paths;
+F["�/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/placeholder/lang/he.jsI"dependency_paths;
+F[{I"	path;
+F"�/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/placeholder/lang/he.jsI"
+mtime;
+FIu:	Time��:�t�
+:@_zoneI"MSK;
+T:nano_numi:nano_deni:submicro"x�:offseti@8I"hexdigest;
+F"%179abf5b4b3c0c531db67a4781678184I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

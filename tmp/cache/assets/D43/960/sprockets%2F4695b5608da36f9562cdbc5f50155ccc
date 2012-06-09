@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.9349024:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%60615f4eff47c85819829082b0476f15I"logical_path;
+F"8ckeditor/plugins/uicolor/yui/assets/picker_mask.pngI"pathname;
+F"µ/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/uicolor/yui/assets/picker_mask.pngI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"length;
+FI"
+12174;
+FI"digest;
+F"%a94fa12a166dd8f8b688c589d82a64f0I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

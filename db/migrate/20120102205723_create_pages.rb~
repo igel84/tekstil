@@ -1,0 +1,15 @@
+class CreatePages < ActiveRecord::Migration
+  def change
+    create_table :pages do |t|
+      t.string :name
+      t.string :title
+      t.string :hiperlink
+      t.text :body, :default=>''
+      t.timestamps
+    end
+
+    Page.create(:name=>'Главная', :hiperlink=>'main', :title=>'Добро пожаловать на наш сайт!', :body=>'')
+    Page.create(:name=>'Услуги', :hiperlink=>'service', :title=>'Услуги', :body=>'')
+    Page.create(:name=>'Контакты', :hiperlink=>'kontakt', :title=>'Контактная информация', :body=>'')
+  end
+end

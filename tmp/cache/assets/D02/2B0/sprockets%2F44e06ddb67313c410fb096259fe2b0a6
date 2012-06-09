@@ -1,0 +1,31 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946534.2317214:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%29610ca9d9c6ddde8a7fcb8fdc06c2c1I"logical_path;
+F"&ckeditor/plugins/embed/lang/en.jsI"pathname;
+F"£/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/lang/en.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"CKEDITOR.plugins.setLang('embed', 'en',
+{
+  embed : 
+  {
+    title : "Paste embed",
+    button : "Paste embed",
+    pasteMsg : "Please, paste embed-code from Youtube, Myspace, Flickr and others sources into rectangle, using the keyboard (Ctrl + V), and click OK."
+  }
+});
+;
+FI"asset_paths;
+F["£/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/lang/en.jsI"dependency_paths;
+F[{I"	path;
+F"£/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/lang/en.jsI"
+mtime;
+FIu:	Time—ÄöÄtÇ
+:@_zoneI"MSK;
+T:nano_numi-:nano_deni:submicro"Å0:offseti@8I"hexdigest;
+F"%bd1f298980461a0dd98c082460051026I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

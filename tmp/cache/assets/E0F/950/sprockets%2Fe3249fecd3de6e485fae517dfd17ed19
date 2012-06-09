@@ -1,0 +1,31 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946534.246385:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%0b5e7f800431b9a15c4e430c2bfbac57I"logical_path;
+F"&ckeditor/plugins/embed/lang/uk.jsI"pathname;
+F"�/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/lang/uk.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"gCKEDITOR.plugins.setLang('embed', 'uk',
+{
+  embed : 
+  {
+    title : "Вставити embed",
+    button : "Вставити embed",
+    pasteMsg : "Будь ласка, вставте embed-код з Youtube, Myspace, Flickr та інших ресурсів в прямокутник, використовуючи (Ctrl+V), та нажміть OK."
+  }
+});
+;
+TI"asset_paths;
+F["�/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/lang/uk.jsI"dependency_paths;
+F[{I"	path;
+F"�/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/lang/uk.jsI"
+mtime;
+FIu:	Time����t�
+:@_zoneI"MSK;
+T:nano_numi-:nano_deni:submicro"�0:offseti@8I"hexdigest;
+F"%c1d2bbe8e1cb3cd1f43a574eb0492315I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

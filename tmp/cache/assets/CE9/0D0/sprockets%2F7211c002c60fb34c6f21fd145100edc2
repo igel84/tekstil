@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.1742463:@value{	I"length:EFi�I"digest;
+F"%79a2952d48a2d2e5d90114e565d8efa0I"source;
+FI"�/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("placeholder","he",{placeholder:{title:"מאפייני שומר מקום",toolbar:"צור שומר מקום",text:"תוכן שומר המקום",edit:"ערוך שומר מקום",textMissing:"שומר המקום חייב להכיל טקסט."}});
+TI"_version;
+F"%5c7323ad4743092c8a5a921abb439bf3

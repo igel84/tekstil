@@ -1,0 +1,23 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946534.2536683:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%fc778566625d95dfde551a611be669a9I"logical_path;
+F"%ckeditor/plugins/embed/plugin.jsI"pathname;
+F"¢/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/plugin.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"æ(function(){var embedCmd={exec:function(editor){editor.openDialog('embed');return}};CKEDITOR.plugins.add('embed',{lang:['en','ru','uk'],requires:['dialog'],init:function(editor){var commandName='embed';editor.addCommand(commandName,embedCmd);editor.ui.addButton('Embed',{label:editor.lang.embed.button,command:commandName,icon:this.path+"images/embed.png"});CKEDITOR.dialog.add(commandName,CKEDITOR.getUrl(this.path+'dialogs/embed.js'))}})})();
+;
+FI"asset_paths;
+F["¢/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/plugin.jsI"dependency_paths;
+F[{I"	path;
+F"¢/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/embed/plugin.jsI"
+mtime;
+FIu:	Time—ÄöÄtÇ
+:@_zoneI"MSK;
+T:nano_numi-:nano_deni:submicro"Å0:offseti@8I"hexdigest;
+F"%b3080373a1584ccdb710a61f6bec3b76I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

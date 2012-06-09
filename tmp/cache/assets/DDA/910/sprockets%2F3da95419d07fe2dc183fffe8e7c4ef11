@@ -1,0 +1,15 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946520.3377116:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%08abd07fdcff4c01d30cefa3bf416165I"logical_path;
+F"ckeditor/CHANGES.htmlI"pathname;
+F"—/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/CHANGES.htmlI"content_type;
+FI"text/html;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"length;
+FI"157640;
+FI"digest;
+F"%7b7daa5cccaf75f5ac064f877939b9e4I"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

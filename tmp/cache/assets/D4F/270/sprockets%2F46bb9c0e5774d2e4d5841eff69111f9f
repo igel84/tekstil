@@ -1,0 +1,15 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946536.453341:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%a2838f663a5403c17fed99e002b00a04I"logical_path;
+F"1ckeditor/plugins/smiley/images/omg_smile.gifI"pathname;
+F"®/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/smiley/images/omg_smile.gifI"content_type;
+FI"image/gif;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"length;
+FI"451;
+FI"digest;
+F"%2adce89f0ec433541ee6796889916d4aI"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072

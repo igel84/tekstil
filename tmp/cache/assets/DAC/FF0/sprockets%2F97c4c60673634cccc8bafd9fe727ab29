@@ -1,0 +1,23 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327946533.7229013:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%ddbf41daace0ac63a949db199f7dff79I"logical_path;
+F"*ckeditor/plugins/attachment/plugin.jsI"pathname;
+F"ß/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/attachment/plugin.jsI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-30T21:32:39+04:00;
+FI"	body;
+FI"Î(function(){var attachmentCmd={exec:function(editor){editor.openDialog('attachment');return}};CKEDITOR.plugins.add('attachment',{lang:['en','ru','uk'],requires:['dialog'],init:function(editor){var commandName='attachment';editor.addCommand(commandName,attachmentCmd);editor.ui.addButton('Attachment',{label:editor.lang.attachment.button,command:commandName,icon:this.path+"images/attachment.png"});CKEDITOR.dialog.add(commandName,CKEDITOR.getUrl(this.path+'dialogs/attachment.js'))}})})();
+;
+FI"asset_paths;
+F["ß/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/attachment/plugin.jsI"dependency_paths;
+F[{I"	path;
+F"ß/var/www/home/hosting_igel84/projects/tekstil/shared/gems/ruby/1.9.1/bundler/gems/ckeditor-00f9b9f1b934/vendor/assets/javascripts/ckeditor/plugins/attachment/plugin.jsI"
+mtime;
+FIu:	Time—ÄöÄtÇ
+:@_zoneI"MSK;
+T:nano_numi-:nano_deni:submicro"Å0:offseti@8I"hexdigest;
+F"%403a4fd7960508eb242f06d3261272cbI"_version;
+F"%d4bb6cd6a735ef6a52269cb42cdc7072
