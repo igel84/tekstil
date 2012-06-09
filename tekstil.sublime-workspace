@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"payShare"
+			],
+			[
+				"ma",
+				"material"
+			],
+			[
+				"izd",
+				"izd_mass"
+			],
+			[
+				"spe",
+				"specification_tab"
+			],
+			[
+				"me",
+				"mehPriceKG"
+			],
+			[
+				"li",
+				"lit_mass"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"iz",
+				"izd_mass"
+			],
+			[
+				"mass",
+				"massAll"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"fi",
+				"firm"
+			],
+			[
+				"fold",
+				"folder"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"al",
+				"allHour"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"no",
+				"normaChasMin"
+			],
+			[
+				"m",
+				"meh_"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"usr",
+				"user_message"
+			],
+			[
+				"co",
+				"conflict_count"
+			],
+			[
+				"use",
+				"user_notice"
+			],
+			[
+				"tas",
+				"task_count"
+			],
+			[
+				"us",
+				"user_notice"
+			],
+			[
+				"sp",
+				"specification"
+			],
+			[
+				"Spe",
+				"Specification"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"en",
+				"end_date"
+			],
+			[
+				"beg",
+				"begin_date"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"x",
+				"xlsx"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"izd_",
+				"izd_items"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"ca",
+				"calculation"
+			],
+			[
+				"cal",
+				"calc_izdels"
+			],
+			[
+				"Cal",
+				"CalcOperation"
+			],
+			[
+				"gsu",
+				"gsub"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"se",
+				"sender_text"
+			],
+			[
+				"pro",
+				"profit"
+			],
+			[
+				"n",
+				"normaChas"
+			],
+			[
+				"ne",
+				"new_name"
+			],
+			[
+				"s",
+				"substring"
+			],
+			[
+				"ed",
+				"editNameIzd"
+			],
+			[
+				"contr",
+				"container"
+			],
+			[
+				"su",
+				"substring"
+			],
+			[
+				"pr",
+				"priceKG"
+			],
+			[
+				"price",
+				"priceKg"
+			],
+			[
+				"meh",
+				"meh_id"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"meh_",
+				"meh_cost"
+			],
+			[
+				"pad",
+				"padding	padding-left: length"
+			],
+			[
+				"fon",
+				"font	font-style: normal/italic/oblique"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"ch",
+				"chargeMass"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"mater",
+				"material"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"mate",
+				"material"
+			],
+			[
+				"Ma",
+				"Material"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"c",
+				"calcSummAll"
+			],
+			[
+				"p",
+				"prMEH"
+			],
+			[
+				"to",
+				"to_blob"
+			],
+			[
+				"t",
+				"tmpfile"
+			],
+			[
+				"S3",
+				"S3Object"
+			],
+			[
+				"up",
+				"uploads"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"nam",
+				"name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/deploy.rb",
+			"settings":
+			{
+				"buffer_size": 3871,
+				"line_ending": "Unix",
+				"name": "# По умолчанию для дистрибуции проектов использует"
+			}
+		},
+		{
+			"file": "Capfile",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix",
+				"name": "load 'deploy' if respond_to?(:namespace) # cap2 di"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 907,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 1739,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/igel/proj/tekstil/.rvmrc",
+		"/home/igel/avtolit/.rvmrc",
+		"/home/igel/avtolit/db/migrate/20120607054835_add_price_kg_to_cherteg.rb",
+		"/home/igel/avtolit/app/views/folders/_form.html.haml",
+		"/home/igel/avtolit/app/controllers/folders_controller.rb",
+		"/home/igel/avtolit/db/migrate/20120605112607_add_inf_to_firm.rb",
+		"/home/igel/avtolit/app/controllers/chertegs_controller.rb",
+		"/home/igel/avtolit/app/models/cherteg.rb",
+		"/home/igel/avtolit/db/migrate/20120604054906_add_withoutcherteg_to_normachas.rb",
+		"/home/igel/avtolit/db/migrate/20120604083934_add_visible_to_cherteg.rb",
+		"/home/igel/avtolit/config/application.rb",
+		"/home/igel/avtolit/config/compass.rb",
+		"/home/igel/avtolit/Gemfile",
+		"/home/igel/avtolit/config/environments/development.rb",
+		"/home/igel/avtolit/app/stylesheets/folder.scss",
+		"/home/igel/avtolit/app/models/specification_tab.rb",
+		"/home/igel/avtolit/app/views/layouts/application.html.haml",
+		"/home/igel/avtolit/app/views/calculations/export_spec.xml.builder",
+		"/home/igel/avtolit/db/migrate/20120531084410_create_user_notices.rb",
+		"/home/igel/avtolit/app/models/user_notice.rb",
+		"/home/igel/avtolit/app/models/user.rb",
+		"/home/igel/avtolit/app/controllers/tasks_controller.rb",
+		"/home/igel/avtolit/app/models/task.rb",
+		"/home/igel/avtolit/app/controllers/messages_controller.rb",
+		"/home/igel/Загрузки/Alina_Grigoryeva.txt",
+		"/home/igel/avtolit/config/routes.rb",
+		"/home/igel/avtolit/app/views/folders/_item.html.haml",
+		"/home/igel/avtolit/db/migrate/20120530104936_add_doc_to_specification.rb",
+		"/home/igel/avtolit/public/javascripts/folder.js",
+		"/home/igel/avtolit/app/views/folders/time.js.erb",
+		"/home/igel/avtolit/app/views/folders/_find.html.haml",
+		"/home/igel/avtolit/app/views/calculations/show.html.haml",
+		"/home/igel/avtolit/public/javascripts/calculation.js",
+		"/home/igel/avtolit/app/models/specific_doc.rb",
+		"/home/igel/avtolit/app/models/calculation.rb",
+		"/home/igel/avtolit/app/stylesheets/calculations.scss",
+		"/home/igel/avtolit/app/controllers/calculations_controller.rb",
+		"/home/igel/avtolit/untitled",
+		"/home/igel/avtolit/app/views/calculations/specific_doc.html.haml",
+		"/home/igel/avtolit/app/views/calculations/export_save",
+		"/home/igel/Книга1.xml",
+		"/home/igel/avtolit/app/models/cherteg_file.rb",
+		"/home/igel/avtolit/app/models/calc.rb",
+		"/home/igel/avtolit/config/environments/production.rb",
+		"/home/igel/avtolit/Gemfile.lock",
+		"/home/igel/avtolit/avtolit.sublime-workspace",
+		"/home/igel/Без имени 1 (копия).xml",
+		"/home/igel/avtolit/app/views/calculations/export_spec.html.haml",
+		"/home/igel/avtolit/app/controllers/materials_controller.rb",
+		"/home/igel/avtolit/app/views/materials/edit.html.haml",
+		"/home/igel/avtolit/app/views/materials/index.html.haml",
+		"/home/igel/avtolit/app/views/calculations/material_table.js.erb",
+		"/home/igel/proj/yuliansait/bootstrap.rb",
+		"/home/igel/avtolit/app/views/calculations/meh_cost_table.js.erb",
+		"/home/igel/avtolit/avtolit.sublime-project",
+		"/home/igel/avtolit/.gitignore",
+		"/home/igel/avtolit/app/views/chertegs/_cost_item.html.haml",
+		"/home/igel/avtolit/app/views/materials/add_element.js.erb",
+		"/home/igel/avtolit/app/stylesheets/materials.scss",
+		"/home/igel/avtolit/public/javascripts/material.js",
+		"/home/igel/avtolit/app/models/splav.rb",
+		"/home/igel/avtolit/app/models/material.rb",
+		"/home/igel/avtolit/app/models/element.rb",
+		"/home/igel/avtolit/app/views/materials/_element.html.haml",
+		"/home/igel/avtolit/db/migrate/20120513141122_edit_element.rb",
+		"/home/igel/proj/cms/Gemfile",
+		"/home/igel/proj/cms/views/edit_form.erb",
+		"/home/igel/proj/cms/views/admin.erb",
+		"/home/igel/proj/cms/views/stylesheet.sass",
+		"/home/igel/proj/sinatra-simple-cms/views/admin.erb",
+		"/home/igel/proj/sinatra-simple-cms/.gitignore",
+		"/home/igel/proj/sinatra-simple-cms/bootstrap.rb~",
+		"/home/igel/proj/voronezhles/Gemfile",
+		"/home/igel/proj/voronezhles/app/views/layouts/application.html.erb",
+		"/home/igel/proj/voronezhles/.gitignore",
+		"/home/igel/proj/voronezhles/app/controllers/pages_controller.rb",
+		"/home/igel/proj/voronezhles/app/controllers/house_prices_controller.rb",
+		"/home/igel/proj/voronezhles/app/controllers/account_controller.rb~"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"time",
+			"calcusa",
+			"meh",
+			"lit-mass",
+			"recoil",
+			"JPG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/deploy.rb",
+					"settings":
+					{
+						"buffer_size": 3871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2571,
+								2571
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# По умолчанию для дистрибуции проектов использует",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Capfile",
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"auto_name": "load 'deploy' if respond_to?(:namespace) # cap2 di",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 1739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 409.0,
+	"status_bar_visible": true
+}
